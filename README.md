@@ -1,13 +1,18 @@
-# VectorDetect  
+# VectorDetect
 
-This repository documents my cybersecurity learning journey.  
+Documenting my journey into cybersecurity — hands-on labs, SOC-style investigations, and detection engineering.  
+I use TryHackMe, CyberDefenders and home-lab work to learn and produce write-ups, detection rules, and triage playbooks.
 
-I’m building skills across **blue team operations**, **SOC analysis**, and **threat detection**, while developing a deeper understanding of **security tooling**, **adversary tactics**, and **defensive strategy**.  
+## Structure
+- `labs/` — capture lab work and screenshots (e.g. FakeBank).  
+- `writeups/` — detailed investigations and detection rule examples.  
+- `home-lab/` — notes & diagrams for my lab setup.  
+- `playbooks/` — triage and detection playbooks I build.
 
-## Sections  
+## Goals
+1. Build detectable, repeatable investigations.  
+2. Publish clear write-ups that prove I can do SOC tasks.  
+3. Land entry-level SOC/blue-team roles and progress to threat modelling.
 
-- 🧠 Write-ups from labs and investigations  
-- 🧩 Notes from certifications and study platforms (TryHackMe, CyberDefenders, etc.)  
-- 🔍 Reflections on concepts, tools, and threat models  
-
----
+## Contact
+X: @VectorDetect  
