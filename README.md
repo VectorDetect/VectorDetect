@@ -1,16 +1,13 @@
-## Hi there 👋
+# VectorDetect  
 
-<!--
-**VectorDetect/VectorDetect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository documents my cybersecurity learning journey.  
 
-Here are some ideas to get you started:
+I’m building skills across **blue team operations**, **SOC analysis**, and **threat detection**, while developing a deeper understanding of **security tooling**, **adversary tactics**, and **defensive strategy**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sections  
+
+- 🧠 Write-ups from labs and investigations  
+- 🧩 Notes from certifications and study platforms (TryHackMe, CyberDefenders, etc.)  
+- 🔍 Reflections on concepts, tools, and threat models  
+
+---
