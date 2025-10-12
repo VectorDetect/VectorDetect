@@ -15,4 +15,6 @@ Domain 1 introduced the core principles that underpin all of cybersecurity. It c
 ## Why this matters  
 Understanding these first principles is critical before touching tools. Without a clear model of threats, risk, and control, detection and response become guesswork. This domain sets the mental framework that SOC work depends on.
 
+## Certificate of Completion
+
 ![CC Domain 1 Certificate](./images/cc-domain1-cert.png)
