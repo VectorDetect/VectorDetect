@@ -1,6 +1,7 @@
 # VectorDetect
 
-Documenting my journey into cybersecurity — hands-on labs, SOC-style investigations, and detection engineering.  
+Documenting my journey into cybersecurity - hands-on labs, SOC-style investigations, and detection engineering.  
+
 I use TryHackMe, CyberDefenders and home-lab work to learn and produce write-ups, detection rules, and triage playbooks.
 
 ## Structure
