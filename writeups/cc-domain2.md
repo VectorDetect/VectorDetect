@@ -8,4 +8,4 @@ Key concepts:
 
 This domain sets the operational backbone for handling real-world cyber events. Without structure, everything fails under pressure. It’s what separates reactive chaos from professional handling.
 
-![Certificate](../writeups/images/cc_domain2.png)
+![Certificate](../writeups/images/cc-domain2-cert.png)
