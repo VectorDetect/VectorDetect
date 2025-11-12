@@ -29,4 +29,4 @@ Next phase:
 ---
 
 ## Certificate  
-![Certified in Cybersecurity (CC) Official Certificate](../images/cc-official-cert.png)
+![Certified in Cybersecurity (CC) Official Certificate](../writeups/images/cc-official-cert.png)
